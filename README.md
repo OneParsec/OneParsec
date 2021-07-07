@@ -1,4 +1,3 @@
-![](https://valid.x86.fr/cache/banner/qur65d-2.png)
 <p align="center">
   <table>
   <tr>
@@ -7,3 +6,6 @@
   </tr>   
 </table>
 </p>
+
+
+![](https://valid.x86.fr/cache/banner/qur65d-2.png)

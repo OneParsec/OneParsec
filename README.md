@@ -2,7 +2,7 @@
   <table>
   <tr>
       <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=OneParsec&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats"/></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneParsec&theme=dark](https://github.com/anuraghazra/github-readme-stats" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneParsec&theme=dark](https://github.com/anuraghazra/github-readme-stats&layout=compact"/></td>
   </tr>   
 </table>
 </p>
